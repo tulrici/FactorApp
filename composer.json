@@ -1,0 +1,14 @@
+{
+    "require": {
+        "symfony/messenger": "^7.1",
+        "symfony/runtime": "^7.1"
+    },
+    "require-dev": {
+    "symfony/debug-bundle": "^5.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "symfony/runtime": true
+        }
+    }
+}
